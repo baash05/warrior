@@ -3,4 +3,4 @@ warrior
 
 code for ruby warrior
 
-This is a test.
+I am testing the contents of the PR post
